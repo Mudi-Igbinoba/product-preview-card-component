@@ -50,7 +50,7 @@ I want to work more on maintaining a mobile-first workflow.
 ## Author
 
 - Website - [Mudi Igbinoba](https://www.mudee.netlify.app)
-- Frontend Mentor - [@mudi-igbinoba](https://www.frontendmentor.io/profile/mudi-igbinoba)
+- Frontend Mentor - [@Mudi-Igbinoba](https://www.frontendmentor.io/profile/Mudi-Igbinoba)
 - Twitter - [@Mudi_Igbinoba](https://www.twitter.com/mudi_igbinoba)
 - Github - [@mudi-igbinoba](https://github.com/mudi-igbinoba)
 - LinkedIn - [Osamudiame Igbinoba](https://www.linkedin.com/in/osamudiame-igbinoba/)
